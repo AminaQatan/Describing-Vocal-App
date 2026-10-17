@@ -1,0 +1,39 @@
+DESCRIBING VOCAB APP — GITHUB PAGES
+
+Created by Ms. Amina Qatan
+200 vocabulary cards from Levels 1, 2 and 3.
+Includes the updated 3D cartoon pictures and pictures-above-sentence layout.
+
+ONE FILE TO UPLOAD
+All pictures, styles and app code are included inside index.html.
+No separate assets folder, installation or build step is required.
+
+SETUP FOR A PUBLIC CLASSROOM LINK
+1. Extract this ZIP.
+2. Go to https://github.com/new and sign in.
+3. Create a Public repository named Describing-Vocab-App. Select Add README.
+4. In the repository, select Add file > Upload files.
+5. Upload index.html into the main repository folder and commit the changes.
+   Upload the extracted HTML file, not this ZIP.
+6. Open Settings > Pages.
+7. Select Deploy from a branch, main, /(root), then Save.
+8. When deployment finishes, use the Visit site link in Settings > Pages.
+
+If your GitHub username is aminaqatan and you use the exact repository name
+above, the resulting address will be:
+https://aminaqatan.github.io/Describing-Vocab-App/
+This address becomes available only after you upload and enable Pages.
+
+ON A PHONE
+Extract the ZIP in your phone's Files app. Use Chrome's Desktop site option
+if GitHub's menus are difficult to find. Keep the filename exactly index.html.
+
+UPDATES
+Upload the replacement index.html to the same repository and commit it.
+Refresh the website after the GitHub Pages deployment finishes.
+
+Listening uses your device's available English voices. Best progress is saved
+in each browser. Publishing this copy does not change the existing Sites app.
+
+GitHub instructions:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
